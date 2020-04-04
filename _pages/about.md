@@ -3,8 +3,9 @@ layout: page
 title: About Me
 permalink: /about/
 ---
+Hi, this is Maryam H Shoreh. Third year Ph.D. student at University of Adelaide.
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+For more info look into my [Linkedin](https://www.linkedin.com/in/maryam-h-shoreh-51369994/).
 
 This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
 
