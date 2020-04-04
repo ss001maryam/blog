@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://ss001maryam.github.io/DynamicOptimization/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ss001maryam.github.io/DynamicOptimization/" rel="alternate" type="text/html" /><updated>2020-04-04T04:32:20-05:00</updated><id>https://ss001maryam.github.io/DynamicOptimization/feed.xml</id><title type="html">DynamicOptimization</title><subtitle>Maryam's Blog.</subtitle><entry><title type="html">GitHub Actions: Providing Data Scientists With New Superpowers</title><link href="https://ss001maryam.github.io/DynamicOptimization/actions/markdown/2020/03/06/fastpages-actions.html" rel="alternate" type="text/html" title="GitHub Actions: Providing Data Scientists With New Superpowers" /><published>2020-03-06T00:00:00-06:00</published><updated>2020-03-06T00:00:00-06:00</updated><id>https://ss001maryam.github.io/DynamicOptimization/actions/markdown/2020/03/06/fastpages-actions</id><content type="html" xml:base="https://ss001maryam.github.io/DynamicOptimization/actions/markdown/2020/03/06/fastpages-actions.html">&lt;h1 id=&quot;what-superpowers&quot;&gt;What Superpowers?&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://ss001maryam.github.io/DynamicOptimization/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ss001maryam.github.io/DynamicOptimization/" rel="alternate" type="text/html" /><updated>2020-04-04T04:39:13-05:00</updated><id>https://ss001maryam.github.io/DynamicOptimization/feed.xml</id><title type="html">DynamicOptimization</title><subtitle>Maryam's Blog.</subtitle><entry><title type="html">GitHub Actions: Providing Data Scientists With New Superpowers</title><link href="https://ss001maryam.github.io/DynamicOptimization/actions/markdown/2020/03/06/fastpages-actions.html" rel="alternate" type="text/html" title="GitHub Actions: Providing Data Scientists With New Superpowers" /><published>2020-03-06T00:00:00-06:00</published><updated>2020-03-06T00:00:00-06:00</updated><id>https://ss001maryam.github.io/DynamicOptimization/actions/markdown/2020/03/06/fastpages-actions</id><content type="html" xml:base="https://ss001maryam.github.io/DynamicOptimization/actions/markdown/2020/03/06/fastpages-actions.html">&lt;h1 id=&quot;what-superpowers&quot;&gt;What Superpowers?&lt;/h1&gt;
 
 &lt;p&gt;Hi, I’m &lt;a href=&quot;https://twitter.com/HamelHusain&quot;&gt;Hamel Husain&lt;/a&gt;.  I’m a machine learning engineer at GitHub.  Recently, GitHub released a new product called &lt;a href=&quot;https://github.com/features/actions&quot;&gt;GitHub Actions&lt;/a&gt;, which has mostly flown under the radar in the machine learning and data science community as just another continuous integration tool.&lt;/p&gt;
 
@@ -1571,7 +1571,7 @@ And another {% fn 2 %}
 
 &lt;h2 id=&quot;images&quot;&gt;Images&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/logo.png&quot; alt=&quot;&quot; title=&quot;fast.ai's logo&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;DynamicOptimization/images/logo.png&quot; alt=&quot;&quot; title=&quot;fast.ai's logo&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;code&quot;&gt;Code&lt;/h2&gt;
 
@@ -1659,13 +1659,13 @@ wget https://example.com/cat_photo1.png
 
 &lt;p&gt;Consider this graphic prepared by the NumFOCUS foundation showing the number of maintainers for three widely used scientific computing projects:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://ss001maryam.github.io/DynamicOptimization/assets/img/2020-01-01-Microsoft-Word-Example-Post/media/image1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://ss001maryam.github.ioDynamicOptimization/assets/img/2020-01-01-Microsoft-Word-Example-Post/media/image1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;We can see that across these three projects, there is a very low ratio maintainers to users. Fixing this problem is not an easy task and likely requires innovative solutions to address the economics as well as tools.&lt;/p&gt;
 
 &lt;p&gt;Due to its recent momentum and popularity, Kubeflow suffers from a similar fate as illustrated by the growth of new issues opened:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://ss001maryam.github.io/DynamicOptimization/assets/img/2020-01-01-Microsoft-Word-Example-Post/media/image2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://ss001maryam.github.ioDynamicOptimization/assets/img/2020-01-01-Microsoft-Word-Example-Post/media/image2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Source: “&lt;a href=&quot;http://bit.ly/tf-github&quot;&gt;&lt;span class=&quot;underline&quot;&gt;TensorFlow World 2019, Automating Your Developer Workflow With ML&lt;/span&gt;&lt;/a&gt;”&lt;/p&gt;
 
