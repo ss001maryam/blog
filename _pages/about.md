@@ -3,7 +3,7 @@ layout: page
 title: About Me
 permalink: /about/
 ---
-Hi, this is Maryam H Shoreh. Third year Ph.D. student at University of Adelaide.
+Hi, this is Maryam H Shoreh. Third year Ph.D. student at Computer Science, Optimization and Logistics group, University of Adelaide.
 
 For more info look into my [Linkedin](https://www.linkedin.com/in/maryam-h-shoreh-51369994/).
 
